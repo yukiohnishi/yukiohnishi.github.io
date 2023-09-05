@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), where I am advised by [Prof. Jordan Awan](https://jordan-awan.com/) and [Prof. Arman Sabbaghi](https://www.stat.purdue.edu/~sabbaghi/). My research interest lies in broard areas of causal inference, Bayesian analysis and Differential Privacy.
-Prior to Purdue, I was a data scientist at [Visional, inc.](https://www.visional.inc/en/visional-way.html), where I developed the recommendation systems and novel statistical methods within the digital markting setting. I have interned at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/) as a data scientist in summer 2023.
-
+I am a final-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/). I am advised by [Prof. Jordan Awan](https://jordan-awan.com/) and [Prof. Arman Sabbaghi](https://www.stat.purdue.edu/~sabbaghi/). My research interests lie in the broad areas of causal inference, Bayesian analysis, and differential privacy..
+Before joining Purdue, I worked as a data scientist at [Visional, inc.](https://www.visional.inc/en/visional-way.html), where I developed recommendation systems and novel statistical methods tailored for the digital marketing setting. Additionally, I interned as a data scientist at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/) in the summer of 2023. 
 
 
 <!-- Publications
