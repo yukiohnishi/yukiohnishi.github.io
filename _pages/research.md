@@ -34,6 +34,6 @@ in the Presence of Interference, Treatment Nonadherence, and Missing Outcomes," 
 Workshops
 ---------
 
-1. **Y. Ohnishi** and S. Sugaya, "Applying Bayesian Hierarchical Probit Model to Interview Grade Evaluation," KDD'19 INTERNATIONAL WORKSHOP ON TALENT AND MANAGEMENT COMPUTING Workshop. 2019.
+1. **Y. Ohnishi** and S. Sugaya, "Applying Bayesian Hierarchical Probit Model to Interview Grade Evaluation," KDD'19 International Workshop on Talent and Management Computing Workshop. 2019. [TMC@KDD'19]
 
 1. **Y. Ohnishi** and S. Sugaya, "Bayesian Hierarchical Bernoulli-Weibull Mixture Model for Extremely Rare Events," INFORMS Business Analytics Conference. 2018.
