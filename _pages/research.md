@@ -18,11 +18,11 @@ author_profile: true
 Journals/Conferences/Preprints
 ---------
 
+<!-- 1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", 2023. Submitted. -->
+
 1. **Y. Ohnishi** and J. Awan, "Locally Private Causal Inference," arXiv:2301.01616, 2023. Submitted.
 
 1. **Y. Ohnishi**, B. Karmakar and A. Sabbaghi, "Degree of Interference: A General Framework for Causal Inference under Interference," 	arXiv:2210.17516, 2023. Submitted.
-
-<!-- 1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", 2023. Submitted. -->
 
 1. **Y. Ohnishi** and A. Sabbaghi, "A Bayesian Analysis of Two-Stage Randomized Experiments
 in the Presence of Interference, Treatment Nonadherence, and Missing Outcomes," Bayesian Analysis, 2022.
