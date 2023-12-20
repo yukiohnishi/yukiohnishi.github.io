@@ -15,10 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+[Research Statement](/files/ResearchStatement.pdf)
+
 Journals/Conferences/Preprints
 ---------
 
-<!-- 1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", 2023. Submitted. -->
+1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", 2023. Submitted.
 
 1. **Y. Ohnishi** and J. Awan, "Locally Private Causal Inference," arXiv:2301.01616, 2023. Submitted.
 
