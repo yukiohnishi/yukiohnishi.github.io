@@ -17,7 +17,7 @@ author_profile: true
 
 [Research Statement](/files/ResearchStatement.pdf)
 
-Journals/Conferences/Preprints
+Journal/Proceedings/Preprints
 ---------
 
 1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", 2023. Major Revision Submitted.
