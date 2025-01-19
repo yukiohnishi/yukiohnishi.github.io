@@ -15,19 +15,26 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-[Research Statement](/files/ResearchStatement.pdf)
+<!-- [Research Statement](/files/ResearchStatement.pdf) -->
 
-Journal/Proceedings/Preprints
+Preprints
 ---------
 
-1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", 2023. Major Revision Submitted.
+1. **Y. Ohnishi** and F. Li, "A Bayesian nonparametric approach to mediation and spillover effects with multiple mediators in cluster-randomized trials," arXiv:2411.03489, Submitted.
 
-1. **Y. Ohnishi** and J. Awan, "Locally Private Causal Inference," arXiv:2301.01616, 2023. R&R.
+1. **Y. Ohnishi** and J. Awan, "Differentially Private Covariate Balancing Causal Inference," arXiv:2410.14789, Submitted.
 
-1. **Y. Ohnishi**, B. Karmakar and A. Sabbaghi, "Degree of Interference: A General Framework for Causal Inference under Interference," 	arXiv:2210.17516, 2023. Submitted.
+1. **Y. Ohnishi**, B. Karmakar and A. Sabbaghi, "Degree of Interference: A General Framework for Causal Inference under Interference," 	arXiv:2210.17516, Submitted.
 
-1. **Y. Ohnishi** and A. Sabbaghi, "A Bayesian Analysis of Two-Stage Randomized Experiments
-in the Presence of Interference, Treatment Nonadherence, and Missing Outcomes," Bayesian Analysis, 2022.
+
+Journal/Proceedings
+---------
+
+1. **Y. Ohnishi** and J. Awan, "Locally Private Causal Inference," Journal of Machine Learning Research, Accepted.
+
+1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", Journal of the American Statistical Association, Accepted.
+
+1. **Y. Ohnishi** and A. Sabbaghi, "A Bayesian Analysis of Two-Stage Randomized Experiments in the Presence of Interference, Treatment Nonadherence, and Missing Outcomes," Bayesian Analysis, 2022.
 
 1. **Y. Ohnishi** and J. Honorio, "Novel change of measure inequalities with applications to PAC-Bayesian bounds and Monte Carlo estimation," The 24th International Conference on Artificial Intelligence and Statistics, 2021.
 
