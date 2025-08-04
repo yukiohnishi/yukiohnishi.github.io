@@ -8,22 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a final-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/). I am advised by [Prof. Jordan Awan](https://jordan-awan.com/) and [Prof. Arman Sabbaghi](https://www.stat.purdue.edu/~sabbaghi/). My research interests lie in the broad areas of causal inference, Bayesian analysis, and differential privacy.
-Before joining Purdue, I worked as a data scientist at [Visional, inc.](https://www.visional.inc/en/visional-way.html), where I developed recommendation systems and introduced novel statistical methods for efficient digital marketing. Additionally, I interned as a data scientist at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/) in the summer of 2023. 
+I am a postdoctoral associate at the Yale School of Public Health (YSPH), where I have the privilege of working with Professor Fan Li. My work develops theory and methods for causal inference with complex dependence structures, with emphasis on Bayesian and Bayesian nonparametric approaches. Current interests include post-treatment confounding, mediation analysis, interference and spillovers, sequential treatments, time-to-event outcomes, and CRTs. I received my Ph.D. in Statistics from Purdue University, where I was co-advised by Professors Jordan Awan and Arman Sabbaghi.
 
 
-<!-- Publications
-========
-
-
-Presentations
-========
-
-
-Work Experience
-========
-
-
-Education
-======== -->
