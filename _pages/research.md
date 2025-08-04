@@ -56,7 +56,7 @@ Awards
 
 1. JSM Early Career Award, Statistics in Epidemiology Section, American Statistical Association, 2025.
 
-1. Graduate student recognition GRAD award, Department of Statistics, Purdue University, 2024.
+1. Graduate Student Recognition GRAD Award, Department of Statistics, Purdue University, 2024.
 
 1. College of Science Graduate Student Travel Award, Purdue University, 2023.
 
