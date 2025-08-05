@@ -35,9 +35,9 @@ Journal/Proceedings
 
 1. **Y. Ohnishi** and J. Awan, "Locally Private Causal Inference for Randomized Experiments," Journal of Machine Learning Research, 2025.
 
-1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", Journal of the American Statistical Association, 2024.
+1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", Journal of the American Statistical Association, 2025.
 
-1. **Y. Ohnishi** and A. Sabbaghi, "A Bayesian Analysis of Two-Stage Randomized Experiments in the Presence of Interference, Treatment Nonadherence, and Missing Outcomes," Bayesian Analysis, 2022.
+1. **Y. Ohnishi** and A. Sabbaghi, "A Bayesian Analysis of Two-Stage Randomized Experiments in the Presence of Interference, Treatment Nonadherence, and Missing Outcomes," Bayesian Analysis, 2024.
 
 1. **Y. Ohnishi** and J. Honorio, "Novel change of measure inequalities with applications to PAC-Bayesian bounds and Monte Carlo estimation," The 24th International Conference on Artificial Intelligence and Statistics, 2021.
 
