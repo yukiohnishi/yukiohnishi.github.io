@@ -21,9 +21,9 @@ Preprints
 ---------
 
 
-1. **Y. Ohnishi**, M. O. Harhay and F. Li, "Principal stratification with recurrent events truncated by a terminal event: A nested Bayesian nonparametric approach," arXiv:2506.19015, Submitted.
+1. **Y. Ohnishi**, M. O. Harhay and F. Li, "Principal stratification with recurrent events truncated by a terminal event: A nested Bayesian nonparametric approach," arXiv:2506.19015, submitted.
 
-1. **Y. Ohnishi** and J. Awan, "Differentially Private Covariate Balancing Causal Inference," arXiv:2410.14789, Submitted.
+1. **Y. Ohnishi** and J. Awan, "Differentially Private Covariate Balancing Causal Inference," arXiv:2410.14789, submitted.
 
 
 Journal/Proceedings
@@ -33,9 +33,9 @@ Journal/Proceedings
 
 1. **Y. Ohnishi**, B. Karmakar and A. Sabbaghi, "Degree of Interference: A General Framework for Causal Inference under Interference," *Journal of Machine Learning Research*, accepted.
 
-1. **Y. Ohnishi** and J. Awan, "Locally Private Causal Inference for Randomized Experiments," *Journal of Machine Learning Research*, 2025.
-
 1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance," *Journal of the American Statistical Association*, 2025.
+
+1. **Y. Ohnishi** and J. Awan, "Locally Private Causal Inference for Randomized Experiments," *Journal of Machine Learning Research*, 2025.
 
 1. **Y. Ohnishi** and A. Sabbaghi, "A Bayesian Analysis of Two-Stage Randomized Experiments in the Presence of Interference, Treatment Nonadherence, and Missing Outcomes," *Bayesian Analysis*, 2024.
 
