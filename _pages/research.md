@@ -29,26 +29,26 @@ Preprints
 Journal/Proceedings
 ---------
 
-1. **Y. Ohnishi** and F. Li, "A Bayesian nonparametric approach to mediation and spillover effects with multiple mediators in cluster-randomized trials," Journal of the American Statistical Association, accepted.
+1. **Y. Ohnishi** and F. Li, "A Bayesian nonparametric approach to mediation and spillover effects with multiple mediators in cluster-randomized trials," *Journal of the American Statistical Association*, accepted.
 
-1. **Y. Ohnishi**, B. Karmakar and A. Sabbaghi, "Degree of Interference: A General Framework for Causal Inference under Interference," Journal of Machine Learning Research, accepted.
+1. **Y. Ohnishi**, B. Karmakar and A. Sabbaghi, "Degree of Interference: A General Framework for Causal Inference under Interference," *Journal of Machine Learning Research*, accepted.
 
-1. **Y. Ohnishi** and J. Awan, "Locally Private Causal Inference for Randomized Experiments," Journal of Machine Learning Research, 2025.
+1. **Y. Ohnishi** and J. Awan, "Locally Private Causal Inference for Randomized Experiments," *Journal of Machine Learning Research*, 2025.
 
-1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance", Journal of the American Statistical Association, 2025.
+1. **Y. Ohnishi**, B. Karmakar and W. Kar, "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance," *Journal of the American Statistical Association*, 2025.
 
-1. **Y. Ohnishi** and A. Sabbaghi, "A Bayesian Analysis of Two-Stage Randomized Experiments in the Presence of Interference, Treatment Nonadherence, and Missing Outcomes," Bayesian Analysis, 2024.
+1. **Y. Ohnishi** and A. Sabbaghi, "A Bayesian Analysis of Two-Stage Randomized Experiments in the Presence of Interference, Treatment Nonadherence, and Missing Outcomes," *Bayesian Analysis*, 2024.
 
-1. **Y. Ohnishi** and J. Honorio, "Novel change of measure inequalities with applications to PAC-Bayesian bounds and Monte Carlo estimation," The 24th International Conference on Artificial Intelligence and Statistics, 2021.
+1. **Y. Ohnishi** and J. Honorio, "Novel change of measure inequalities with applications to PAC-Bayesian bounds and Monte Carlo estimation," *The 24th International Conference on Artificial Intelligence and Statistics*, 2021.
 
 
 
 Workshops
 ---------
 
-1. **Y. Ohnishi** and S. Sugaya, "Applying Bayesian Hierarchical Probit Model to Interview Grade Evaluation," KDD'19 International Workshop on Talent and Management Computing Workshop. 2019. [TMC@KDD'19]
+1. **Y. Ohnishi** and S. Sugaya, "Applying Bayesian Hierarchical Probit Model to Interview Grade Evaluation," *KDD'19 International Workshop on Talent and Management Computing Workshop*. 2019. [TMC@KDD'19]
 
-1. **Y. Ohnishi** and S. Sugaya, "Bayesian Hierarchical Bernoulli-Weibull Mixture Model for Extremely Rare Events," INFORMS Business Analytics Conference. 2018.
+1. **Y. Ohnishi** and S. Sugaya, "Bayesian Hierarchical Bernoulli-Weibull Mixture Model for Extremely Rare Events," *INFORMS Business Analytics Conference*. 2018.
 
 
 Awards
