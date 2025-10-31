@@ -31,6 +31,7 @@ Journal/Proceedings
 ---------
 
 1. **Y. Ohnishi** and F. Li, "A Bayesian nonparametric approach to mediation and spillover effects with multiple mediators in cluster-randomized trials," *Journal of the American Statistical Association*, 2025.
+    *  (*Winner of 2025 JSM Early Career Award, ASA Section on Statistics in Epidemiology*)
 
 1. **Y. Ohnishi**, B. Karmakar and A. Sabbaghi, "Degree of Interference: A General Framework for Causal Inference under Interference," *Journal of Machine Learning Research*, 2025.
 
