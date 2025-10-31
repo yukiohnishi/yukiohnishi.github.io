@@ -20,7 +20,7 @@ author_profile: true
 Preprints
 ---------
 
-1. **Y. Ohnishi**, M. J. Daniels, L. Yang, and F. Li, "Identification and estimation of causal mechanisms in cluster-randomized trials with post-treatment confounding using Bayesian nonparametrics," submitted.
+1. **Y. Ohnishi**, M. J. Daniels, L. Yang, and F. Li, "Identification and estimation of causal mechanisms in cluster-randomized trials with post-treatment confounding using Bayesian nonparametrics," arXiv:2510.16673, submitted.
 
 1. **Y. Ohnishi**, M. O. Harhay and F. Li, "Principal stratification with recurrent events truncated by a terminal event: A nested Bayesian nonparametric approach," arXiv:2506.19015, submitted.
 
