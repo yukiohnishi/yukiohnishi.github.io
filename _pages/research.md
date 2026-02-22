@@ -56,6 +56,8 @@ Workshops
 Awards
 ---------
 
+1. Yale University-Mayo Clinic CERSI Scholars Award, 2025-2026.
+
 1. JSM Early Career Award, Statistics in Epidemiology Section, American Statistical Association, 2025.
 
 1. Graduate Student Recognition GRAD Award, Department of Statistics, Purdue University, 2024.
