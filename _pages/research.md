@@ -20,9 +20,17 @@ author_profile: true
 Preprints
 ---------
 
+1. **Y. Ohnishi** and F. Li, "The Resolution of Causal Heterogeneity," arXiv:2607.17280, submitted.
+
+1. **Y. Ohnishi** and F. Li, "Sensitivity analysis for causal mediation: bridge score, sharp sensitivity bounds, and calibration," arXiv:2605.18724, submitted.
+
+1. **Y. Ohnishi** and F. Li, "Bayesian change-plane regression," arXiv:2604.23851, submitted.
+
+1. Liu, R., J. L. Warren, **Y. Ohnishi**, D. Spiegelman, L. Hu, and F. Li. ``Calibrated Bayes analysis of cluster-randomized trials,'' arXiv:2511.20833, submitted.
+
 1. **Y. Ohnishi**, M. J. Daniels, L. Yang, and F. Li, "Identification and estimation of causal mechanisms in cluster-randomized trials with post-treatment confounding using Bayesian nonparametrics," arXiv:2510.16673, submitted.
 
-1. **Y. Ohnishi**, M. O. Harhay and F. Li, "Principal stratification with recurrent events truncated by a terminal event: A nested Bayesian nonparametric approach," arXiv:2506.19015, submitted.
+1. **Y. Ohnishi**, M. O. Harhay, Guangyu Tong, and F. Li, "Principal stratification with recurrent events truncated by a terminal event: A nested Bayesian nonparametric approach," arXiv:2506.19015, submitted.
 
 1. **Y. Ohnishi** and J. Awan, "Differentially Private Covariate Balancing Causal Inference," arXiv:2410.14789, submitted.
 
